@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  first-helm:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-24T22:53:44.41167541+02:00
+    description: A Helm chart for Kubernetes
+    digest: 787f7f0d12ca54e4dfbb884644723a9338e8eb0eb7b86e1ca0af83855ab5d172
+    name: first-helm
+    urls:
+    - first-helm-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-12-24T22:53:44.411262926+02:00
