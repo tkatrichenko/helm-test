@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kube-kyc-dataset-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-11-15T10:18:26.080219+02:00"
+    description: A Helm chart for kube-kyc-dataset-app
+    digest: 772b20bef13a6ce7df512263e493828bb961795eb5a0899912c6207b63e111cd
+    name: kube-kyc-dataset-app
+    urls:
+    - kube-kyc-dataset-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-11-15T10:18:26.079482+02:00"
